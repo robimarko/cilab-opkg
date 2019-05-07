@@ -13,7 +13,7 @@ PKG_RELEASE:=1-beta
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/nodogsplash/nodogsplash.git
 PKG_SOURCE_VERSION:=084bf4d9d21968ae799f8da9ae9d23e3698c85a0
-PKG_MIRROR_HASH:= whatever
+PKG_MIRROR_HASH:= 24e6699d05c868f0c5058eee87a5987180645d93ab05ebb105776397c27059fd
 PKG_BUILD_DIR:=$(BUILD_DIR)/nodogsplash-$(PKG_VERSION)
 
 PKG_MAINTAINER:=Moritz Warning <moritzwarning@web.de>
